@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Configuration and environment resolution for pepkio-dna-revcomp-primer-toolkit."""
 
 from __future__ import annotations

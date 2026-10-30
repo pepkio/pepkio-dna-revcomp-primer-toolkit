@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """HTTP client for the Pepkio dna-revcomp-primer-toolkit tool."""
 
 from __future__ import annotations

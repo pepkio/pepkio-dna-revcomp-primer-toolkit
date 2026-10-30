@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-dna-revcomp-primer-toolkit."""
 
 from __future__ import annotations

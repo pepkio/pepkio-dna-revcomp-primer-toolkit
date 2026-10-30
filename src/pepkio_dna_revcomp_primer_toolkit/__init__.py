@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Pepkio DNA RevComp & Primer Toolkit Python Client."""
 
 from __future__ import annotations

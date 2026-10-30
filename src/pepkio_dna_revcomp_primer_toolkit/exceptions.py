@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """API error types for Pepkio client."""
 
 from __future__ import annotations
