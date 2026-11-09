@@ -16,7 +16,7 @@ ENVIRONMENTS = [
 
 def _api_key_for(base_url: str) -> str | None:
     if "localtest.me" in base_url:
-        return os.getenv("LOCAL_PEPKIO_API_KEY") or os.getenv("PEPKIO_API_KEY")
+        return os.getenv("LOCAL_PEPKIO_API_KEY")
     return os.getenv("PEPKIO_API_KEY")
 
 
